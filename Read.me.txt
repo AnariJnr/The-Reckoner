@@ -1,0 +1,11 @@
+The Reckoner is a simple java application that contains three simple accounting applications
+1.Mortgage calculator
+2.Simple calculator
+3.Compound calculator
+
+To run****
+**Download the file
+**Run with an IDE (NetBeans Recomended)
+**Right click on the Reckoner folder and debug
+****Click Run*** or run the file
+
